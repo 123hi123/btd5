@@ -1,7 +1,11 @@
 # TO TA
 1. CLION 直接編譯
     - 如果運行失敗可以重新CMake
+    
+      ![image-20250613161130420](https://cdn.jsdelivr.net/gh/321hi123/typoraimgbed/img/image-20250613161130420.png)
+    
 2. 在 PTSD/include/config.hpp 修改 FPS_CAP = 180
+
 3. 運行及測試
 
 # bug possible
